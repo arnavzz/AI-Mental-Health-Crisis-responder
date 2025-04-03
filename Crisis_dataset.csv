@@ -1,0 +1,101 @@
+TEXT,DISTRESS LEVEL
+"""I'm feeling a bit off today.""",Low Distress
+"""Work is stressing me out.""",Low Distress
+"""I feel overwhelmed with my to-do list.""",Low Distress
+"""I just need a break from everything.""",Low Distress
+"""I'm feeling kind of down, but I don't know why.""",Low Distress
+"""I have too much going on in my head.""",Low Distress
+"""I can't seem to focus today.""",Low Distress
+"""I'm feeling a little anxious about tomorrow.""",Low Distress
+"""I wish I could just relax for a bit.""",Low Distress
+"""Things have been tough, but I’ll manage.""",Low Distress
+"""I don’t feel like talking to anyone right now.""",Low Distress
+"""I’ve been procrastinating too much lately.""",Low Distress
+"""I feel like I’m stuck in a rut.""",Low Distress
+"""I wish people would understand me better.""",Low Distress
+"""Some days, I just don’t feel like myself.""",Low Distress
+"""I feel exhausted, but I don’t know why.""",Low Distress
+"""I keep second-guessing everything I do.""",Low Distress
+"""I feel like I need to escape for a while.""",Low Distress
+"""I feel like I’m failing at everything.""",Low Distress
+"""I don’t know how to express what I feel.""",Low Distress
+"""I feel like crying, but I don’t know why.""",Low Distress
+"""I’m tired of pretending everything is fine.""",Low Distress
+"""Sometimes, I just feel invisible.""",Low Distress
+"""I don’t know what’s wrong, but I feel uneasy.""",Low Distress
+"""I feel like I need a fresh start.""",Low Distress
+"""I’m feeling kind of lonely today.""",Low Distress
+"""I just wish things were easier.""",Low Distress
+"""I hate feeling like this, but I don’t know how to change it.""",Low Distress
+"""I feel overwhelmed, but I can’t explain why.""",Low Distress
+"""I wish I had more motivation to do thing",Low Distress
+"""I feel so alone even when I’m around people.""",MediumDistress
+"""I keep replaying bad memories in my head.""",MediumDistress
+"""I can’t stop overthinking everything.""",MediumDistress
+"""I feel like no one truly understands me.""",MediumDistress
+"""I don’t know how to handle everything happening right now.""",MediumDistress
+"""I can’t stop worrying about the future.""",MediumDistress
+"""I feel like a burden to everyone around me.""",MediumDistress
+"""I feel like I’m stuck in a cycle of self-doubt.""",MediumDistress
+"""Nothing I do ever seems to be enough.""",MediumDistress
+"""I feel like I’m losing control of my emotions.""",MediumDistress
+"""I can’t stop these racing thoughts.""",MediumDistress
+"""I don’t know why I always feel this way.""",MediumDistress
+"""It feels like I’m drowning in my own mind.""",MediumDistress
+"""I wish I could just disappear for a while.""",MediumDistress
+"""I’m afraid I’ll never be good enough.""",MediumDistress
+"""I feel like I’m disappointing everyone around me.""",MediumDistress
+"""Everything feels so overwhelming.""",MediumDistress
+"""I feel like my emotions are too much to handle.""",MediumDistress
+"""I don’t want to do anything anymore.""",MediumDistress
+"""It’s getting harder to pretend I’m okay.""",MediumDistress
+"""I feel like I’m falling apart.""",MediumDistress
+"""No matter what I do, I can’t seem to feel happy.""",MediumDistress
+"""I’m struggling to find a reason to keep going.""",MediumDistress
+"""I feel like I’m just going through the motions.""",MediumDistress
+"""It’s exhausting to keep fighting these feelings.""",MediumDistress
+"""I feel like I’m running on empty.""",MediumDistress
+"""I can’t shake this feeling of hopelessness.""",MediumDistress
+"""I don’t know how much longer I can keep this up.""",MediumDistress
+"""I feel like I’m drowning in my own thoughts.""",MediumDistress
+"""I just want to shut everything out for a while.""",MediumDistress
+"""I feel like I’ve lost all motivation.""",MediumDistress
+"""I’m emotionally exhausted.""",MediumDistress
+"""No one would even notice if I was gone.""",MediumDistress
+"""I feel completely numb inside.""",MediumDistress
+"""I just want everything to stop.""",MediumDistress
+"""I don’t feel like I belong anywhere.""",MediumDistress
+"""I wish I could just stop feeling this way.""",MediumDistress
+"""I’m scared that I’ll never feel better.""",MediumDistress
+"""Every day feels like a struggle.""",MediumDistress
+"""I feel like I’m barely holding on.""",MediumDistress
+"""I feel like I’m about to break down.""",High Distress
+"""I can’t take this anymore.""",High Distress
+"""I feel like I’m losing my mind.""",High Distress
+"""I don’t see the point in anything anymore.""",High Distress
+"""Everything is just too much for me.""",High Distress
+"""I wish I could just disappear forever.""",High Distress
+"""I feel like I’m trapped in my own head.""",High Distress
+"""I keep thinking about ending everything.""",High Distress
+"""I can’t stop crying, and I don’t know why.""",High Distress
+"""I feel completely hopeless.""",High Distress
+"""I don’t think I can keep going like this.""",High Distress
+"""I feel like I have no control over my life.""",High Distress
+"""I wish I could make all the pain stop.""",High Distress
+"""I feel like I’m suffocating.""",High Distress
+"""I don’t think anyone would care if I was gone.""",High Distress
+"""I feel like I’m falling apart completely.""",High Distress
+"""I can’t escape these dark thoughts.""",High Distress
+"""I feel completely broken inside.""",High Distress
+"""Nothing matters to me anymore.""",High Distress
+"""I keep having thoughts I’m scared of.""",High Distress
+"""I don’t think I can do this any longer.""",High Distress
+"""I feel like I have no reason to live.""",High Distress
+"""I just want to sleep and never wake up.""",High Distress
+"""I can’t find a way out of this.""",High Distress
+"""I feel like my mind is my worst enemy.""",High Distress
+"""I keep thinking about hurting myself.""",High Distress
+"""I don’t think I have any hope left.""",High Distress
+"""I feel completely lost and alone.""",High Distress
+"""I don’t know how to keep fighting.""",High Distress
+"""I wish I had never been born.""",High Distress
